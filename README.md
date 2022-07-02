@@ -25,7 +25,7 @@ $ sudo apt-get install alsa-base alsa-utils
 After the above is tested and validated, you can proceed to install the module using:
 
 ```
-$ npm install mic
+$ npm install @hakerzp/mic
 ```
 
 API
