@@ -1,5 +1,5 @@
 {
-  "name": "mic",
+  "name": "@hakerzp/mic",
   "version": "2.1.2",
   "description": "A simple stream wrapper for arecord (Linux (including Raspbian)) and sox (Mac/Windows). Returns a Passthrough stream object so that stream control like pause(), resume(), pipe(), etc. are all available.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashishbajaj99/mic.git"
+    "url": "git+https://github.com/hakerzp/mic.git"
   },
   "keywords": [
     "node-mic",
@@ -20,10 +20,10 @@
     "audio",
     "input"
   ],
-  "author": "Ashish Bajaj <bajaj.ashish@gmail.com>",
+  "author": "haker zp",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashishbajaj99/mic/issues"
+    "url": "https://github.com/hakerzp/mic/issues"
   },
-  "homepage": "https://github.com/ashishbajaj99/mic#readme"
+  "homepage": "https://github.com/hakerzp/mic#readme"
 }
